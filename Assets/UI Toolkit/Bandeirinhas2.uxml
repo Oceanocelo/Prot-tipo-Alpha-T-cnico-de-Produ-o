@@ -1,3 +1,0 @@
-<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <ui:VisualElement name="ContainerBandeirinhas" style="flex-grow: 1; flex-direction: row; width: 961px; height: -75px; overflow: hidden; margin-left: 20px; margin-top: 82px; max-width: 842px; max-height: 400px; margin-bottom: 0;"/>
-</ui:UXML>
